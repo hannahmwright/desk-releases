@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.2</title>
+      <pubDate>Sat, 31 Oct 2026 12:26:05 -0400</pubDate>
+      <sparkle:version>89</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Calendar email moves out of your inbox into a Calendar activity feed, where you can answer invitations and open recordings and notes. Each meeting shows its files, links and who answered. Click anyone for their files, links, meetings and emails. People, pins, templates, signatures, rules and settings now sync between your Macs through iCloud.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.2/Desk-1.0.2.zip" type="application/octet-stream" sparkle:edSignature="2DBclUETbBq0a0aGpPN2nw4SMrJa8VBwDKDdu0x5TRZb/rOvB/SPc4piaCLXdV+1eWJyGipJ4u0Dhyp2L0JrBg==" length="11681176" />
+    </item>
+    <item>
       <title>Desk 1.0.1</title>
       <pubDate>Sat, 31 Oct 2026 04:06:52 -0400</pubDate>
       <sparkle:version>85</sparkle:version>
