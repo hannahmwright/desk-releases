@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.3</title>
+      <pubDate>Sat, 31 Oct 2026 15:55:59 -0400</pubDate>
+      <sparkle:version>91</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Photos of the people who email you and logos for companies&#x27; no-reply mail. Reply All and Forward beside Reply. With Desk on more than one Mac, rules run on just one of them. Clearer account buttons, a more visible image banner, and trusted image senders sync between your Macs.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.3/Desk-1.0.3.zip" type="application/octet-stream" sparkle:edSignature="1SR0i05I5FO+R1Dj60dzaqnghxdZHZrPaWEx9PJp+30kaidkqB5Sl6/qZHtgBMfTstu+3PLCe6Rhvg8Im/9xAQ==" length="11806352" />
+    </item>
+    <item>
       <title>Desk 1.0.2</title>
       <pubDate>Sat, 31 Oct 2026 12:26:05 -0400</pubDate>
       <sparkle:version>89</sparkle:version>
