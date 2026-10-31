@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.1</title>
+      <pubDate>Sat, 31 Oct 2026 04:06:52 -0400</pubDate>
+      <sparkle:version>85</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Sign in with Google straight away on new Macs — no setup file needed.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.1/Desk-1.0.1.zip" type="application/octet-stream" sparkle:edSignature="jTe0cbtb+yAcoJj3JOZDcP/O4zyj7gpgLkT8k5oqux+uwIE0qthaY2ne00kYJDtnt2T/huHQNNfPqhvCxwRJDQ==" length="11213111" />
+    </item>
+    <item>
       <title>Desk 1.0.0</title>
       <pubDate>Sat, 31 Oct 2026 02:49:09 -0400</pubDate>
       <sparkle:version>82</sparkle:version>
