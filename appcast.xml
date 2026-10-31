@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.4</title>
+      <pubDate>Sat, 31 Oct 2026 19:09:55 -0400</pubDate>
+      <sparkle:version>93</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Calendars from all your accounts (Google and iCloud), invitations to answer pinned until you reply, calendar colors and options, subscribed calendars, out of office and focus time, travel time and leave-now alerts, Send Later, missing-attachment warning, report spam and block sender, and your accounts follow you to other Macs through iCloud Keychain.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.4/Desk-1.0.4.zip" type="application/octet-stream" sparkle:edSignature="9Snsn7lTMYbGGhyRH8Fs8iVXFh3fsEBYb2D16Jj4oRDnKuDxrneU6pvxssNrq7bu4KVld8pzEAqTHQJbsEQtCQ==" length="12462649" />
+    </item>
+    <item>
       <title>Desk 1.0.3</title>
       <pubDate>Sat, 31 Oct 2026 15:55:59 -0400</pubDate>
       <sparkle:version>91</sparkle:version>
