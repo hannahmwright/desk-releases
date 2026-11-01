@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.8</title>
+      <pubDate>Sun, 01 Nov 2026 03:08:45 -0500</pubDate>
+      <sparkle:version>101</sparkle:version>
+      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Conversations open at the top. Click a conversation&#x27;s count to see each email in the list and jump straight to one. Today, Next week and Later sit at the top of the strip for easier dragging. The right-click menu shows each shortcut key. Fixes working hours showing an hour off on days the clocks change.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.8/Desk-1.0.8.zip" type="application/octet-stream" sparkle:edSignature="PUkBCFT64RdALqM5g88fGFjPgIAPZ5fdrPVXkiNKRsttprc3csHpYauFLVbJFRyw2IiILbXrE+YxU/D1Psx2Dg==" length="12801147" />
+    </item>
+    <item>
       <title>Desk 1.0.7</title>
       <pubDate>Sun, 01 Nov 2026 02:08:42 -0500</pubDate>
       <sparkle:version>99</sparkle:version>
