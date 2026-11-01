@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.5</title>
+      <pubDate>Sun, 01 Nov 2026 01:22:39 -0400</pubDate>
+      <sparkle:version>95</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>A floating Mail/Calendar bar with counts and a quick New Message / New Event button. Accounts show their logo: company, Gmail, iCloud, Outlook, or your own image (Settings › Accounts). Make text bigger or smaller everywhere (Settings › Appearance, or ⌘+ / ⌘−). Easier to read: more solid panels (choose Glassy, Balanced or Solid), clearer popovers and darker event text. Switching between Mail and Calendar is about twice as fast. Client emoji now sits beside the sender. Fixes a crash when switching from Month view to Day or Week.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.5/Desk-1.0.5.zip" type="application/octet-stream" sparkle:edSignature="DKtRVWatVjXJlZjeznZ3gBGmbkrcHmnrnk3Is6+eKx2+MTJh0+5AXUS2zlG74Y91JwKYHwCm506iW4sE4AlVAA==" length="12697337" />
+    </item>
+    <item>
       <title>Desk 1.0.4</title>
       <pubDate>Sat, 31 Oct 2026 19:09:55 -0400</pubDate>
       <sparkle:version>93</sparkle:version>
