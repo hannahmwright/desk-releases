@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.6</title>
+      <pubDate>Sun, 01 Nov 2026 01:12:15 -0500</pubDate>
+      <sparkle:version>97</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Calendar&#x27;s sidebar groups your calendars by account on cards you can fold up, with one Add Calendar menu for subscriptions, your Mac&#x27;s calendars and new accounts. Account logos now show in the message list, the From menu when writing, and the calendar sidebar. Fixes Calendar&#x27;s sidebar being cut off and the mail list opening too narrow in 1.0.5, while keeping quick switching. One search bar for Mail and Calendar, and no Mail count on the switcher.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.6/Desk-1.0.6.zip" type="application/octet-stream" sparkle:edSignature="q31nthwPCJGNlBe0vbtMvV+39UpAHacLAopP3pe0G4gLIQnZP0g1Gp0H2w4AtgON4KoJAyeb687juu72K1RXBA==" length="12729508" />
+    </item>
+    <item>
       <title>Desk 1.0.5</title>
       <pubDate>Sun, 01 Nov 2026 01:22:39 -0400</pubDate>
       <sparkle:version>95</sparkle:version>
