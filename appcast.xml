@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.7</title>
+      <pubDate>Sun, 01 Nov 2026 02:08:42 -0500</pubDate>
+      <sparkle:version>99</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes curly quotes and dashes in email sent from Outlook showing as garbled characters (like youâ€™d); email already affected is repaired. Choose which calendars count toward your availability: click the clock beside a calendar (off unless you turn it on). Cleared calendar activity now stays cleared on all your Macs, and clearing a meeting keeps guests&#x27; later answers out of the activity. A Settings gear at the top right. Fixes settings disappearing when another Mac was on an older version.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.7/Desk-1.0.7.zip" type="application/octet-stream" sparkle:edSignature="1iGo8vCNyxZZ+U4xSrctS9WqJIVtKqrwdeiRw+Z43Q7esZw38yvIexsZf1YPcQV0OlAjLeaqabbcaOo2O7yiCg==" length="12769950" />
+    </item>
+    <item>
       <title>Desk 1.0.6</title>
       <pubDate>Sun, 01 Nov 2026 01:12:15 -0500</pubDate>
       <sparkle:version>97</sparkle:version>
