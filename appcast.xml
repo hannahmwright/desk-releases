@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.10</title>
+      <pubDate>Sun, 01 Nov 2026 23:40:27 -0500</pubDate>
+      <sparkle:version>106</sparkle:version>
+      <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes empty New, To Do, Waiting, Later and Done on macOS 26 after 1.0.9. Your mail was never affected.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.10/Desk-1.0.10.zip" type="application/octet-stream" sparkle:edSignature="IBBAigI5gdCoxY7V+BfBsIZkpbQ51Uf8ozXIZxiWtEuON9TIOffJOE2i9C84sS07TO+tcBi6WgI5Nyo5b2yQDw==" length="12927476" />
+    </item>
+    <item>
       <title>Desk 1.0.9</title>
       <pubDate>Sun, 01 Nov 2026 23:12:15 -0500</pubDate>
       <sparkle:version>103</sparkle:version>
