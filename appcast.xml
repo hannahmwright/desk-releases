@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.13</title>
+      <pubDate>Mon, 02 Nov 2026 14:38:12 -0500</pubDate>
+      <sparkle:version>115</sparkle:version>
+      <sparkle:shortVersionString>1.0.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The mail list starts at the top when you open it and stays there as mail arrives, with a Top button when you&#x27;re far down. On a call, its people stay when the meeting runs over, and finding a time with them is a switch you turn on. Right-click an event to find a time with its guests.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.13/Desk-1.0.13.zip" type="application/octet-stream" sparkle:edSignature="csq/FRDdCFW0RsNJqNlE9R7qgqYTWkRoAeywM4F2FhEhKYTuZX6C9VaFdjrA66/e/LnfdGabSpIGVWkr9JauDA==" length="14113837" />
+    </item>
+    <item>
       <title>Desk 1.0.12</title>
       <pubDate>Mon, 02 Nov 2026 13:55:26 -0500</pubDate>
       <sparkle:version>112</sparkle:version>
