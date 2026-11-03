@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.19</title>
+      <pubDate>Mon, 02 Nov 2026 22:56:02 -0500</pubDate>
+      <sparkle:version>128</sparkle:version>
+      <sparkle:shortVersionString>1.0.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fixes a freeze that could happen while scrolling a long conversation. Forwarded emails now show the email that was forwarded, even when nothing was added. People&#x27;s photos now show when they write from another of their addresses.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.19/Desk-1.0.19.zip" type="application/octet-stream" sparkle:edSignature="vT8DaxFKdbU54a0x661KB5Vt7uDC+9fs7Ok654Tk+n7nvzp7OR2sGJTDsn/+Dl5cgLYcGAsCV61DWz5tB/1WBQ==" length="14970050" />
+    </item>
+    <item>
       <title>Desk 1.0.18</title>
       <pubDate>Mon, 02 Nov 2026 21:17:22 -0500</pubDate>
       <sparkle:version>126</sparkle:version>
