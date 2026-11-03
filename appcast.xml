@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.24</title>
+      <pubDate>Tue, 03 Nov 2026 18:00:39 -0500</pubDate>
+      <sparkle:version>138</sparkle:version>
+      <sparkle:shortVersionString>1.0.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Forwarded emails show in full, including the conversation they forward. Double-click a picture in an email to see it bigger in Quick Look and zoom in, with the email&#x27;s other pictures a ← or → away. Right-click a picture to open or save it.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.24/Desk-1.0.24.zip" type="application/octet-stream" sparkle:edSignature="jZmeI5r6cFNNdJ89gTXXzbJzebfGRCJiq9HjEaPRfNDC9pSJZSm1pN1dEoMbRfC6/aGzA1pah6PPsSyBt9yrDw==" length="15278427" />
+    </item>
+    <item>
       <title>Desk 1.0.23</title>
       <pubDate>Tue, 03 Nov 2026 15:18:26 -0500</pubDate>
       <sparkle:version>136</sparkle:version>
