@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.17</title>
+      <pubDate>Mon, 02 Nov 2026 19:44:50 -0500</pubDate>
+      <sparkle:version>124</sparkle:version>
+      <sparkle:shortVersionString>1.0.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Home: with no email open, Desk shows your day at a glance: your next meeting and what&#x27;s open with those people, the shape of your day, who&#x27;s waiting on your reply, who you&#x27;re waiting on, what comes back today, your clients this week, and what&#x27;s done. Sending a reply takes you back there; so do the new Home button, Esc and Shift-Command-H.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.17/Desk-1.0.17.zip" type="application/octet-stream" sparkle:edSignature="ayd8cBOZHRJHpCbOX17XOa64KZry0iGJn9YqPOL+XHK6nvyTOGa4+UBU3gNpAt2jiwO4CEdzGQHB5wmv7Uq7Cg==" length="14825370" />
+    </item>
+    <item>
       <title>Desk 1.0.16</title>
       <pubDate>Mon, 02 Nov 2026 19:08:50 -0500</pubDate>
       <sparkle:version>121</sparkle:version>
