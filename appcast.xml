@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.20</title>
+      <pubDate>Tue, 03 Nov 2026 00:48:54 -0500</pubDate>
+      <sparkle:version>130</sparkle:version>
+      <sparkle:shortVersionString>1.0.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Triage New in stacks (who needs you, each client, colleagues, people, notifications, money) from Home or above the list, and teach Desk where mail belongs. Everything at the top of Folders shows every email with where it is. Folders are tidier: the ones you use up top, the rest under More, mute and hide, and Tidy Up Folders to remove empty ones. Rules for several senders now run in Gmail.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.20/Desk-1.0.20.zip" type="application/octet-stream" sparkle:edSignature="04LtTRFWCr7HWaYt0Ph6oyOUXq78qJmFCXLp6NZg0TgleIWZUUrrM7gQpkiSg9qVo8C0LqEjnHjJZXvP+wA5Dg==" length="15233920" />
+    </item>
+    <item>
       <title>Desk 1.0.19</title>
       <pubDate>Mon, 02 Nov 2026 22:56:02 -0500</pubDate>
       <sparkle:version>128</sparkle:version>
