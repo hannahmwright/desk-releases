@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.16</title>
+      <pubDate>Mon, 02 Nov 2026 19:08:50 -0500</pubDate>
+      <sparkle:version>121</sparkle:version>
+      <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Night Sky&#x27;s northern lights now shine across the top of the window and between the panels, where you can see them. New to Desk? Setup now also asks what you&#x27;d like to be notified about.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.16/Desk-1.0.16.zip" type="application/octet-stream" sparkle:edSignature="hyrPfMwEo1yzoW+8s92aivUMvXnDEFCyLYGm6B6qIBEu8hAMBQdrZspCQi8yHLPXBbqLw0JtIMVCuDnfLck1Cw==" length="14537717" />
+    </item>
+    <item>
       <title>Desk 1.0.15</title>
       <pubDate>Mon, 02 Nov 2026 18:48:52 -0500</pubDate>
       <sparkle:version>119</sparkle:version>
