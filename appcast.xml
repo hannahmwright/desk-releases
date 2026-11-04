@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.26</title>
+      <pubDate>Tue, 03 Nov 2026 23:38:34 -0500</pubDate>
+      <sparkle:version>142</sparkle:version>
+      <sparkle:shortVersionString>1.0.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Reply All is the main reply button when a conversation is a group everyone&#x27;s staying on (people replying to everyone, what you did last time, a small group). Newsletters, Bcc&#x27;d emails, announcements to a crowd and all@ lists stay plain Reply; the other choice is always right beside it. Reply All no longer copies in your other addresses.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.26/Desk-1.0.26.zip" type="application/octet-stream" sparkle:edSignature="NQIVp6a6FM4TztUT6q77yqh1pP5BMgGyXTzoggtHQpFhzZJ/vnnkSNknNdErsRnIZNsFqJDG5cQNSAhQupTqBQ==" length="15385882" />
+    </item>
+    <item>
       <title>Desk 1.0.25</title>
       <pubDate>Tue, 03 Nov 2026 19:07:48 -0500</pubDate>
       <sparkle:version>140</sparkle:version>
