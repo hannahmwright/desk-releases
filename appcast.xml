@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.27</title>
+      <pubDate>Wed, 04 Nov 2026 14:42:57 -0500</pubDate>
+      <sparkle:version>144</sparkle:version>
+      <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Mail that came to another of your addresses (an alias, a group, a forward) shows a &#x27;via …&#x27; badge in the list and the email. A dropped network connection no longer pops up an error: Desk quietly tries again. Clearing a search (×, Escape or Back to Mail) takes you back to the mail you were in.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.27/Desk-1.0.27.zip" type="application/octet-stream" sparkle:edSignature="gWmY21pJ9n4XgzhChTho3c58r1aEm3iAoZQR1MAQPGKfj4i1j07tFMjvXPicEV+Hn9zsgg606W0lrviAfQnuBQ==" length="15405784" />
+    </item>
+    <item>
       <title>Desk 1.0.26</title>
       <pubDate>Tue, 03 Nov 2026 23:38:34 -0500</pubDate>
       <sparkle:version>142</sparkle:version>
