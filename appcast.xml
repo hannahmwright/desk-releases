@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.25</title>
+      <pubDate>Tue, 03 Nov 2026 19:07:48 -0500</pubDate>
+      <sparkle:version>140</sparkle:version>
+      <sparkle:shortVersionString>1.0.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Agents like Claude Code and Codex can search and read your email through Desk (Settings › Agents), with links back to each conversation. Searching for someone finds them at every address even when an email app sent only their address as their name. Connecting Microsoft Teams is more forgiving: sign-in waits longer and works however Safari reaches your Mac.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.25/Desk-1.0.25.zip" type="application/octet-stream" sparkle:edSignature="LbOftJ1EFK77Fi/mty1eGAkgPg81CgJYbJHn8bRGq4u1srwtnsKE0GYlYi+UZEjeI9lt6RwHYpJg/qYT0nyHCg==" length="15369906" />
+    </item>
+    <item>
       <title>Desk 1.0.24</title>
       <pubDate>Tue, 03 Nov 2026 18:00:39 -0500</pubDate>
       <sparkle:version>138</sparkle:version>
