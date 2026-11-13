@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.28</title>
+      <pubDate>Fri, 13 Nov 2026 16:33:43 -0500</pubDate>
+      <sparkle:version>146</sparkle:version>
+      <sparkle:shortVersionString>1.0.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Change how often a repeating meeting meets (every other week, monthly…) starting on the date you pick. Cancel meetings from the right-click menu, with clearer Cancel vs Delete wording. Email actions stay pinned while you scroll, clearer Done and To Do icons, Control-Tab switches Mail and Calendar, and replying takes you back Home.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.28/Desk-1.0.28.zip" type="application/octet-stream" sparkle:edSignature="mhaYWvV2aX70gpgnFUxYfAbIrBmwdtZCyORRgaR+BXy0q0/RcK3Uig8PYBWZmjsVWyUVqMHlW+WU5Fjgk2HBBw==" length="15568230" />
+    </item>
+    <item>
       <title>Desk 1.0.27</title>
       <pubDate>Wed, 04 Nov 2026 14:42:57 -0500</pubDate>
       <sparkle:version>144</sparkle:version>
