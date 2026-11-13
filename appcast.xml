@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.29</title>
+      <pubDate>Fri, 13 Nov 2026 17:19:15 -0500</pubDate>
+      <sparkle:version>148</sparkle:version>
+      <sparkle:shortVersionString>1.0.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Home button beside the mail list&#x27;s title (Esc or Shift-Command-H also go Home). Sender names read properly: Last, First names are turned around and companies keep their whole name. Bigger events in the Mail strip, the via badge no longer gets cut off, and back-to-back meetings read as separate cards.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.29/Desk-1.0.29.zip" type="application/octet-stream" sparkle:edSignature="rmTVg7MyJcpgtffgC9P3Sxi+9bwEOTeuu8lZrhAEjejt1VHK+f9idB40jEoYXKkeqXpdrNlsCFg8qmIX4CZ9Ag==" length="15575931" />
+    </item>
+    <item>
       <title>Desk 1.0.28</title>
       <pubDate>Fri, 13 Nov 2026 16:33:43 -0500</pubDate>
       <sparkle:version>146</sparkle:version>
