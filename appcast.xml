@@ -6,6 +6,15 @@
     <description>Desk updates</description>
     <language>en</language>
     <item>
+      <title>Desk 1.0.31</title>
+      <pubDate>Tue, 17 Nov 2026 14:21:20 -0500</pubDate>
+      <sparkle:version>152</sparkle:version>
+      <sparkle:shortVersionString>1.0.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Upload a logo for each client, shown instead of its emoji. Click outside a popup to close it. Mark All Read is easier to find in folders, and an empty search no longer floats mid-screen.</p>]]></description>
+      <enclosure url="https://github.com/hannahmwright/desk-releases/releases/download/v1.0.31/Desk-1.0.31.zip" type="application/octet-stream" sparkle:edSignature="VESQYWOZmSCKhXrli1RHa3lUWqbo1obSEIjWUMQljlk6cdz15yY4/JnnGaARNpU+bmEQ2oh4OADZrU+DmuSVDA==" length="15646308" />
+    </item>
+    <item>
       <title>Desk 1.0.30</title>
       <pubDate>Fri, 13 Nov 2026 22:59:54 -0500</pubDate>
       <sparkle:version>150</sparkle:version>
